@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-04-08_1613",
+    "name": "Guia da Vela Artesanal Passo a Passo",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
@@ -41,7 +41,15 @@
     "imageResize": true,
     "uniqCompNum": 19,
     "versionPublish": "5.2.0",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/design-sem-nome-removebg-preview-128x128.png",
+    "canonical-url": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
